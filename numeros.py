@@ -46,7 +46,6 @@ for number in numbers:
 
     image.save(ruta_completa)
 
-
 carpeta_salida_letras = os.path.join("Imagenes", "Letras")
 os.makedirs(carpeta_salida_letras, exist_ok=True)
 
